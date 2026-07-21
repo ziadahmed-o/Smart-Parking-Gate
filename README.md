@@ -1,3 +1,4 @@
+
 # 🚗 Smart Parking Barrier System
 
 An automated barrier control system built with Arduino, designed to open automatically when an approaching vehicle is detected using an ultrasonic sensor.
