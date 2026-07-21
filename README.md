@@ -9,7 +9,7 @@ An automated barrier control system built with Arduino, designed to open automat
 
 ![Smart Parking Barrier](barrier%20open.png)
 
-> 🎬 **Watch the full demonstration video:** [Click here to watch the demo video](https://github.com/ziadahmed-o/Smart-Parking-Gate/blob/main/demo-video.mp4)
+> 🎬 **Watch the full demonstration video:** [Click here to watch the demo video](https://github.com/ziadahmed-o/Smart-Parking-Gate/blob/main/demo-video.gif)
 
 ---
 
