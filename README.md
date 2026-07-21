@@ -7,7 +7,7 @@ An automated barrier control system built with Arduino, designed to open automat
 
 ## 🎥 Project Demo
 
-![Smart Barrier Demo](demo)
+> 🎬 **Watch the project animation:** [Click here to view GIF Demo](demo.gif)
 
 ---
 
